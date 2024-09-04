@@ -10,13 +10,13 @@
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "hoangv11", "url": "https://github.com/hoangv11" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/vihoaa" },
+      { "network": "linkedin", "username": "vihoaa", "url": "http://linkedin.com/in/vihoaa" },
       { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
       { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
+    { "name": "Machine Learning" },
     { "name": "Neuromorphic Computing" },
     { "name": "Quantum Computing" },
     { "name": "Robotics" },
