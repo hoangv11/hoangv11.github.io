@@ -7,8 +7,8 @@ title: "Bank Database"
 date: 2023
 published: true
 labels:
-  - Lisp
-  - GitHub
+  - C
+  - C++
 summary: "A text adventure game that I developed for ICS 313."
 ---
 
