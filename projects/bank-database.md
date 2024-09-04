@@ -8,7 +8,7 @@ published: true
 labels:
   - C
   - C++
-summary: "A banking database I created in ICS 212"
+summary: "A banking database I developed for my ICS 212"
 ---
 
 <img class="img-fluid" src="../img/vacay/vacay-home-page.png">
