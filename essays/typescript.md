@@ -24,6 +24,9 @@ My introduction to JavaScript was done through FreeCodeCamp's JavaScript Algorit
 
 Regarding athletic software engineering, it is something new to me and seems very challening, but who does not love a good challenge. I believe that atheltic software engineering is something that can really enhance your programming abilities even if you are not good at it because it really challengs your problem solving abilities. Within ICS 314, we are practicing athletic software engineering through WODS which are esentially timed exericises/problems. So far, I found this style of learning to be very challenging but also very rewarding. There is a lot of stress that can come with having to complete a task within a certain time frame, but that just makes completing it all the more rewarding. Being given timed exercies/problems will definitely help me to work better under pressure and will also improve my problem solving skills which will be very useful in my programming career. 
 
+## My Overall Goal with TypeScript
+
+Learning JavaScript and TypeScript opens up a new path for me in my computer science and programming journey which is software engineering. With TypeScript, I will be able to learn to develop new web applications and projects that can be used to help others which is something that I am interested in. There are so many web applications that are out here now, some of which I use in my daily life and also web applications that may be very useful which have yet to be created. One day, I hope to create something new which can be widely used by others.
 
 
 
