@@ -12,7 +12,7 @@ labels:
   - Software Engineering
 ---
 
-<img width="600px" class="rounded float-start pe-4" src="../img/Reflection.jpg">
+<img width="400px" class="rounded float-start pe-4" src="../img/Reflection.jpg">
 
 ## Experience with TypeScript
 
