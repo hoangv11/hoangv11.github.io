@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/bankDatabase.png
+image: img/BankDatabase.png
 title: "Bank Database"
 date: 2023
 published: true
