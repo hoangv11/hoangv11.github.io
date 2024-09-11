@@ -16,7 +16,7 @@ This banking database is an application that I created in my prgram structure cl
 
 Here is an image of the User Interface:
 
-
+<img class="img-fluid" src="../img/BankUI.png">
 
 This project includes multiple files such as headers and source code files linking with each other allowing the user interface to fully access functions from the backend. The project was done alone, but created in such a way that could easily be accessed and worked on in a group environment such as the utilziation of comments and debugging. Through this project, I developed a confidence in C and C++ especially with the utiliation of pointers, file operations (read and writefiles) and proper memory usage. Although the original project was done in C, we also had to recreate the project in C++ demonstrating my knowledge in both languages. 
 
