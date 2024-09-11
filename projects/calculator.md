@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/BankDatabase.png
-title: "Bank Database"
+title: "Calculator"
 date: 2024
 published: true
 labels:
