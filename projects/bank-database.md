@@ -13,14 +13,9 @@ summary: "A banking database I developed for ICS 212"
 
 <img class="img-fluid" src="../img/vacay/vacay-home-page.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+This banking database is an application that I created in my prgram structure class. This application features a user interface on the front end that enables users to interact with the database on the back end. The functions allow the user to add/create a record, delete the record and search for a specific record stored within the bank's database. The database utilizes linked lists to store user information and dynamic memory allocation allowing for efficent and flexible memory usage. 
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+This project includes multiple files such as headers and source code files linking with each other allowing the user interface to fully access functions from the backend. The project was done alone, but created in such a way that could easily be accessed and worked on in a group environment such as the utilziation of comments and debugging. Through this project, I developed a confidence in C and C++ especially with the utiliation of pointers, file operations (read and writefiles) and proper memory usage. Although the original project was done in C, we also had to recreate the project in C++ demonstrating my knowledge in both languages. 
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
-
-Here is some example code to illustrate Simple Schema use:
-
-{% gist 9defa1fb3f4eb593ba5fa9eacedca960 %}
- 
-Source: <a href="https://github.com/theVacay/vacay">theVacay/vacay</a>
+Source (C): <a href="https://github.com/theVacay/vacay">Bank Database in C</a>
+Source (C++): <a href="https://github.com/theVacay/vacay">Bank Database in C++</a>
