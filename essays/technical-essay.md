@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Coding my Future"
+title: "The Next Step"
 # All dates must be YYYY-MM-DD format!
 date: 2024-09-04
 published: true
