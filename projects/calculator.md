@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/BankDatabase.png
+image: img/CalculatorIcon.png
 title: "Calculator"
 date: 2024
 published: true
