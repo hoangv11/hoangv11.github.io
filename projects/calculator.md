@@ -16,6 +16,6 @@ During the summer, I decided to introduce myself to JavaScript, HTML and CSS in 
 
 Here is what the calculator looks liked launched on the HTML website server: 
 
-
+<img width="400px" class="rounded float-start pe-4" src="../img/IOSCalculator.png">
 
 Source: <a href="https://github.com/hoangv11/Calculator">Click Here</a>
