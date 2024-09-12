@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/BankDatabase.png
+image: img/FlappyIcon.jpg
 title: "Flappy Bird Copy"
 date: 2023
 published: true
@@ -25,10 +25,10 @@ This project is a clone of the popular mobile game Flappy Bird, developed for me
 
 Here is an image showing some of the physics in Unity: 
 
-<img class="img-fluid" src="../img/BankUI.png">
+<img class="img-fluid" src="../img/FBUnity.png">
 
 
 
 Here is an image on the code for spawning pipes at random:
 
-<img class="img-fluid" src="../img/BankUI.png">
+<img class="img-fluid" src="../img/FBCode.png">
