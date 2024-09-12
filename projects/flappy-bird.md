@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/FlappyIcon.jpg
-title: "Flappy Bird Copy"
+title: "Flappy Bird Clone"
 date: 2023
 published: true
 labels:
