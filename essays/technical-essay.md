@@ -19,9 +19,9 @@ I have always been intrigued by computers and tehcnology since I was a child lea
 ## Skills I Hope To Develop 
 
 During my journey in computer science so far through academics or outside projects, I have developed an understanding in some of the core principles of programming such as data structures and algorithms which can be carried on to many of the new skills I hope to develop. I would love to learn and gain more experience in some technical fields such as data science, machine learning and artificial intelligence. 
-With the skills I have learned thus far, I strive to continue to polish them through creating new projects or practicing leet code which could also help me later on with technical interviews.
+With the skills I have learned thus far, I strive to continue to polish them through creating new projects or practicing leet code which could also help me later on with technical interviews. Other than technical skills, I also hope to improve in areas specifically team work and communication. By participating more in collaborative projects, I wish to enhance my abilites in working with groups, communication and just striving in a team environment. 
 
 ## The Next Step
 
-
+For my future, I hope to go down the path towards becoming a data scientist. Data science has been especially appealing to me because of my love for math and numbers. Through data science we are able to take raw data and create meaningful insight and predicitions with that data. Due to the rapid changes and new innovations in technology, machine learning and aritificial intelligence has also been on the rise. I have also found machine learing and AI fascinating and hope to go down a path that combines the three together. 
 
