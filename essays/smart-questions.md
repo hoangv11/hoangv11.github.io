@@ -31,3 +31,6 @@ A user posted this question on stack overflow for the output of a simple java co
 On the other hand, SMART questions is easy to follow and understand, shows effort and highlights the problem at hand. SMART questions also demonstrate that there was effort put in as well wether it be what they searched on google, or what they did to try and and solve the question on their own. Here is an example of a <a href="https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array">smart question.</a> 
 
 <img width="1300px" src="../img/SQ.png">
+
+
+In this SMART question, the user is asking "Why is processing a sorted array faster than processing an unsorted array?" The user clearly demonstrates that they put effort into the question through test cases and their results, comments on code that explain what is going on, making it easier to follow as well as what the user predicts to be occuring in the code to make processing sorted arrays faster than unsorted arrays. By creating a smart question, the user was able to receive hundreds of clear and detailed answers/solutions to the question. 
