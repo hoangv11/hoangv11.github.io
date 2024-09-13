@@ -22,6 +22,8 @@ Asking questions is fundamental especially for learning and for personal growth.
 As a software engineer or programmer, there are many forums such as StackOverflow where you can ask a question and receive feedback from others. There have been times when we have asked questions and did not receive the exact answer we were looking for. This is likely because the question that was asked was not so smart. Before asking questions on online forums, we should make sure that our questions are not easily answered through simple google searches. We should also make sure that our question is specific and asked in a way for us to receive a proper response. By doing this, we can save not only other people's time, but also our own time trying to get responses from others. Here is an example of a <a href="https://stackoverflow.com/questions/35683216/whats-the-output-of-this-code-written-in-java">not so smart question.</a> 
 
 ```
+Q: What's the output of this code written in java?
+
         int arr[ ] = new int[3];
     for (int i = 0; i < 3; i++) {
        arr[i] = i;
