@@ -18,6 +18,6 @@ I have always been intrigued by computers and tehcnology since I was a child lea
 
 ## Skills I Hope To Develop 
 
-
+During my journey in computer science so far, I have developed a variety of skills 
 
 ## My Future
