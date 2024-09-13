@@ -29,3 +29,5 @@ A user posted this question on stack overflow for the output of a simple java co
 ## What is a SMART question?
 
 On the other hand, SMART questions is easy to follow and understand, shows effort and highlights the problem at hand. SMART questions also demonstrate that there was effort put in as well wether it be what they searched on google, or what they did to try and and solve the question on their own. Here is an example of a <a href="https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array">smart question.</a> 
+
+<img width="1300px" src="../img/SQ.png">
