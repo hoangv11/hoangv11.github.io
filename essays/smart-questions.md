@@ -12,3 +12,11 @@ labels:
 ---
 
 <img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
+
+## Can You Ask a Dumb Question? 
+
+## Smart 
+
+## Not so Smart
+
+## 
