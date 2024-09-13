@@ -18,6 +18,10 @@ I have always been intrigued by computers and tehcnology since I was a child lea
 
 ## Skills I Hope To Develop 
 
-During my journey in computer science so far, I have developed a variety of skills 
+During my journey in computer science so far through academics or outside projects, I have developed an understanding in some of the core principles of programming such as data structures and algorithms which can be carried on to many of the new skills I hope to develop. I would love to learn and gain more experience in some technical fields such as data science, machine learning and artificial intelligence. 
+With the skills I have learned thus far, I strive to continue to polish them through creating new projects or practicing leet code which could also help me later on with technical interviews.
 
 ## The Next Step
+
+
+
