@@ -30,7 +30,100 @@ A user posted this question on stack overflow for the output of a simple java co
 
 On the other hand, SMART questions is easy to follow and understand, shows effort and highlights the problem at hand. SMART questions also demonstrate that there was effort put in as well wether it be what they searched on google, or what they did to try and and solve the question on their own. Here is an example of a <a href="https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array">smart question.</a> 
 
-<img width="1300px" src="../img/SQ.png">
+```
+Q: Why is processing a sorted array faster than processing an unsorted array?
+
+In this C++ code, sorting the data (*before* the timed region) makes the primary loop ~6x faster:
+
+#include <algorithm>
+#include <ctime>
+#include <iostream>
+
+int main()
+{
+	// Generate data
+	const unsigned arraySize = 32768;
+	int data[arraySize];
+
+	for (unsigned c = 0; c < arraySize; ++c)
+		data[c] = std::rand() % 256;
+
+	// !!! With this, the next loop runs faster.
+	std::sort(data, data + arraySize);
+
+	// Test
+	clock_t start = clock();
+	long long sum = 0;
+	for (unsigned i = 0; i < 100000; ++i)
+	{
+		for (unsigned c = 0; c < arraySize; ++c)
+		{	// Primary loop.
+			if (data[c] >= 128)
+				sum += data[c];
+		}
+	}
+
+	double elapsedTime = static_cast<double>(clock()-start) / CLOCKS_PER_SEC;
+
+	std::cout << elapsedTime << '\n';
+    std::cout << "sum = " << sum << '\n';
+}
+
+- Without `std::sort(data, data + arraySize);`, the code runs in 11.54 seconds.
+- With the sorted data, the code runs in 1.93 seconds.
+
+
+(Sorting itself takes more time than this one pass over the array, so it's not actually worth doing if we needed to calculate this for an unknown array.)
+
+
+Initially, I thought this might be just a language or compiler anomaly, so I tried Java:
+
+import java.util.Arrays;
+import java.util.Random;
+
+public class Main
+{
+	public static void main(String[] args)
+	{
+		// Generate data
+		int arraySize = 32768;
+		int data[] = new int[arraySize];
+
+		Random rnd = new Random(0);
+		for (int c = 0; c < arraySize; ++c)
+		    data[c] = rnd.nextInt() % 256;
+
+		// !!! With this, the next loop runs faster
+		Arrays.sort(data);
+
+		// Test
+		long start = System.nanoTime();
+		long sum = 0;
+		for (int i = 0; i < 100000; ++i)
+		{
+			for (int c = 0; c < arraySize; ++c)
+			{  	// Primary loop.
+				if (data[c] >= 128)
+					sum += data[c];
+			}
+		}
+
+		System.out.println((System.nanoTime() - start) / 1000000000.0);
+		System.out.println("sum = " + sum);
+	}
+}
+
+With a similar but less extreme result.
+
+---
+
+My first thought was that sorting brings the data into the [cache](https://en.wikipedia.org/wiki/CPU_cache), but that's silly because the array was just generated.
+
+- What is going on?
+- Why is processing a sorted array faster than processing an unsorted array?
+
+The code is summing up some independent terms, so the order should not matter.
+```
 
 
 In this SMART question, the user is asking "Why is processing a sorted array faster than processing an unsorted array?" The user clearly demonstrates that they put effort into the question through test cases and their results, comments on code that explain what is going on, making it easier to follow as well as what the user predicts to be occuring in the code to make processing sorted arrays faster than unsorted arrays. By creating a smart question, the user was able to receive hundreds of clear and detailed answers/solutions to the question. 
