@@ -7,7 +7,7 @@ date: 2024-09-23
 published: true
 labels:
   - Reflection
-  - Coding Style
+  - Coding Standards
 ---
 
 <img width="400px" class="rounded float-start pe-4" src="../img/Reflection.jpg">
