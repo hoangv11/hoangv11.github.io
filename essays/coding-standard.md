@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Coding Standards"
+title: "Building Good Habits"
 # All dates must be YYYY-MM-DD format!
 date: 2024-09-23
 published: true
