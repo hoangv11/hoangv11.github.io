@@ -61,3 +61,5 @@ and Singleton (among others) to navigate complexity, foster flexibility, and ens
 In this way, the question “What are design patterns?” is answered as naturally as stepping through a well-structured street plan: They are the foundational blueprints guiding how we build and maintain our digital worlds. 
 And as for how I’ve used them—much like a careful planner choosing a suitable layout for new districts—I’ve applied patterns like Strategy and Singleton (among others) to navigate complexity, foster flexibility, and 
 ensure the longevity of the software systems I help create.
+
+This essay was fixed up with chatgpt to fix grammar and strcuture. 
