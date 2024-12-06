@@ -10,6 +10,8 @@ labels:
   - Design Patterns
 ---
 
+<img width="400px" class="rounded float-start pe-4" src="../img/singleton-3x.png">
+
 ## Introduction
 
 Imagine standing at the edge of a bustling city, its streets humming with life, its buildings reaching skyward, and its infrastructure quietly orchestrating the daily rhythm of millions. Although you may admire the city’s 
