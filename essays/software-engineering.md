@@ -20,7 +20,7 @@ For instance, open source software development taught me the value of team colla
 
 ## Agile Project Management
 
-
+Agile project management is an approach to project management breaking down a very large overall project into smaller and more manageable parts. This method of project management is very flexible which is crucial as projects can be unpredictable and require changes to be made.For the project I am working on, ICStudy, which is a study buddy web application that allows user to create study sessions with other classmates and students, it was important to break the project down into smaller milestones with a deadline for each milestone. This is a method called Issue-Driven Project Management, a form of agile project management. As a team we identify issues that need solutions and create quality solutions to those issues. With IDPM, we can continuously monitor tasks, prioritize certain issues and everyone including the stakeholders can be informed of issues and the progress being made to address them.  
 
 ## Coding Standards
 
