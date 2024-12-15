@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/CryptoPredicton.png
+image: img/CryptoPrediction.png
 title: "Crypto Stock Predictor"
 date: 2023
 published: true
