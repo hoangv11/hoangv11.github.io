@@ -6,8 +6,7 @@
     "email": "hoangv@hawaii.edu",
     "phone": "808-745-9775",
     "website": "https://hoangv11.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2026.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2025.",
     "profiles": [
       { "network": "github", "username": "hoangv11", "url": "https://github.com/hoangv11" },
       { "network": "linkedin", "username": "vihoaa", "url": "http://linkedin.com/in/vihoaa" }
@@ -16,7 +15,8 @@
   "interests": [
     { "name": "Machine Learning" },
     { "name": "Software Development" },
-    { "name": "Data Science" }
+    { "name": "Data Science" },
+    { "name": "AI" }
   ],
   "skills": [
     {
