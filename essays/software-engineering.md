@@ -11,3 +11,22 @@ labels:
   - Learning
 ---
 
+## Reflecting on Software Engineering
+
+## Open Source Software Development
+
+## Functional Programming
+
+## Development Enviroments
+
+## Coding Standards
+
+## User Interface Frameworks
+
+## Agile Project Managment
+
+## Design Patterns
+
+## Ethics in Software Engineering
+
+## Conclusion
