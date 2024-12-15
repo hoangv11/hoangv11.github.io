@@ -25,6 +25,10 @@ Due to this being a solo project I made for fun, I was the primary developer and
 
 1. Data Pipeline and Preprocessing:
 
+   - Designed a data pipline to ingest both real-time and historical data from Kraken API, including the price history and trading volumes of 5 popular crypocurrencies.
+
+   - Developed preprocessing algorithms to clean up data allowing for more meaningful data analysis that is compatible with certain machine learning models
+
 2. Machine Learning Model Development:
 
 3. Trading Logic and Risk Management:
