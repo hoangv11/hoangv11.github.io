@@ -21,7 +21,15 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Python", "Javascript", "TypeScript", "HTML", "CSS" ]
+      "keywords": [ "C", "C++", "Java", "Python", "JavaScript", "TypeScript", "NextJS", "HTML", "CSS" ]
+    },
+    {
+      "name": "Databases",
+      "keywords": [ "PostgreSQL", "MongoDB" ]
+    },
+    {
+      "name": "Cloud Services",
+      "keywords": [ "AWS", "Firebase" ]
     },
     {
       "name": "Toolsets/OS",
@@ -31,7 +39,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2026)",
+      "area": "Computer Science (expected Fall, 2025)",
       "studyType": "B.S.",
       "startDate": "2022-08-26",
       "endDate": "Present",
