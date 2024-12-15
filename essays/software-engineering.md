@@ -20,6 +20,8 @@ For instance, open source software development taught me the value of team colla
 
 ## Agile Project Management
 
+
+
 ## Coding Standards
 
 Coding standards refer to the set of guidelines representing the best practices that developers should follow in order to write consistent, readable and maintainable code. These standards cover many aspects of software engineering whether it be naming conventions, indentation, code formatting and even documentation. By following these guidelines, it ensures that codebases are clean and organized, making it much easier for multiple developers to collaborate effectively. 
