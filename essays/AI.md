@@ -19,7 +19,7 @@ Artificial Intelligence is playing an increasingly pivotal role in education, of
 
 ## II. Personal Experience with AI:
 
-#### 1. <strong>Experience WODS<strong>
+#### 1. Experience WODS
 
 #### 2. In-class Practice WODs
 
@@ -35,7 +35,7 @@ Artificial Intelligence is playing an increasingly pivotal role in education, of
 
 #### 8. Asking or answering a smart-question
 
-#### 9. Coding example e.g. “give an example of using Underscore .pluck”
+#### 9. Coding Example
 
 #### 10. Explaining Code
 
