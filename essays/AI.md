@@ -112,6 +112,12 @@ breaking down intricate concepts into simpler, more digestible terms. This suppo
 
 ## IV. Practical Applications:
 
+During my time in ICS 314, I worked on HACC and encountered coding concepts that were either not taught in class or had yet to be covered. AI proved to be an invaluable resource in helping me navigate these unfamiliar 
+topics. For instance, I had to work with concepts like ``useState`` and ``useEffect``, which weren’t part of the course material at that point. AI helped me understand how these concepts functioned and provided 
+explanations that made it easier to implement them effectively in my code. Additionally, AI assisted me with other coding concepts, such as working with local storage, further deepening my understanding of how to manage 
+data and state in applications. Beyond just learning new concepts, AI was also instrumental in debugging my code. It helped identify errors, suggest fixes, and even provided guidance on creating more efficient and higher-
+quality implementations, which greatly improved my coding skills and the overall quality of my work.
+
 ## V. Challenges and Opportunities
 
 ## VI. Comparative Analysis:
