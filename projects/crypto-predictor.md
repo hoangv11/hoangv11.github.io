@@ -19,5 +19,24 @@ This project involved designing a Crypto Trading Predictor and Bot that leverage
 
 The architecture of the bot is built around 4 steps before executing a trade. First it starts with data ingestion where it takes real time data. The system was connected with an API from Kraken to gather market data, including prices, volume and order book depth. It then processes and cleans that data by handling missing values, removing outliers and creating more consistent formats which allows for much more accurate data analysis. With that data, it beings to make machine learning based predictions. Using historical and real-time data, the machine implements an algorithm known as Long Short-Term Memory (LSTM) networks in order predict short term price changes and outputting signals to either Buy, Sell or Hold. Finally, the bot then performs automated actions based on signals and performs market, limit or stop-loss orders. For example, if the bot predicts that Ethereum would have a 5% price increase, it will place a buy order while setting a stop loss at around 3% below the purchase price for proper risk management. 
 
+## My Contribution
+
+Due to this being a solo project I made for fun, I was the primary developer and architect for the entire project whether it be the design or the implmentations. My contributions included:
+
+1. Data Pipeline and Preprocessing:
+
+2. Machine Learning Model Development:
+
+3. Trading Logic and Risk Management:
+
+## Lessons Learned and Skills Acquired
+
+1. Machine Learning
+
+2. System Design, Optimization and API Integration
+
+3. Crypto Market Dynamics
+
+
 
 
