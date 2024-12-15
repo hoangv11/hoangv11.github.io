@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/CryptoPredictionGraph.png
-title: "Crypto Stock Predictor"
+title: "Crypto Trading Bot & Predictor"
 date: 2023
 published: true
 labels:
