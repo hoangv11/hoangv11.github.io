@@ -9,5 +9,5 @@ labels:
   - Python
   - Machine Learning
   - Data Science
-summary: "Crypto Stock Predictor leveraging machine learning techniques to forecast cryptocurrency stock trends."
+summary: "Crypto Trading Bot leveraging machine learning techniques to forecast cryptocurrency stock trends and make trades"
 ---
