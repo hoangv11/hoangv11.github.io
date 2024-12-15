@@ -21,7 +21,11 @@ Artificial Intelligence is playing an increasingly pivotal role in education, of
 
 ##### 1. Experience WODS
 
+When working on the experience WODs, I found that it was most effective to not rely on AI tools like ChatGPT initially. Instead, I tackled the problems independently, utilized the provided screencasts and resources, and only turned to AI when I was really stuck. This approach enhanced my learning, allowing me to better understand the material and develop my problem-solving skills more effectively.
+
 ##### 2. In-class Practice WODs
+
+Similar to the experience WODs, I aimed to limit my use of AI since these activities were focused more on learning than just completing tasks. When in-class practice WODs extended beyond class time, I worked on them at home, taking the opportunity to thoroughly learn and understand the material. This approach allowed me to delve deeper into the concepts, reinforcing my knowledge and skills. By independently tackling the problems and utilizing AI only when absolutely necessary, I was able to enhance my learning experience and gain a more comprehensive understanding of the coursework.
 
 ##### 3. In-class WODs
 
