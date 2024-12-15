@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/ICStudy-SB.png
+image: img/ICStudy-SB.jpg
 title: "ICStudy"
 date: 2024
 published: true
