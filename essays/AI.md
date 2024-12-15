@@ -19,31 +19,31 @@ Artificial Intelligence is playing an increasingly pivotal role in education, of
 
 ## II. Personal Experience with AI:
 
-#### 1. Experience WODS
+##### 1. Experience WODS
 
-#### 2. In-class Practice WODs
+##### 2. In-class Practice WODs
 
-#### 3. In-class WODs
+##### 3. In-class WODs
 
-#### 4. Essays
+##### 4. Essays
 
-#### 5. Final Project
+##### 5. Final Project
 
-#### 6. Learning a concept / tutorial
+##### 6. Learning a concept / tutorial
 
-#### 7. Answering a question in class or in Discord
+##### 7. Answering a question in class or in Discord
 
-#### 8. Asking or answering a smart-question
+##### 8. Asking or answering a smart-question
 
-#### 9. Coding Example
+##### 9. Coding Example
 
-#### 10. Explaining Code
+##### 10. Explaining Code
 
-#### 11. Writing Code
+##### 11. Writing Code
 
-#### 12. Documenting Code
+##### 12. Documenting Code
 
-#### 13. Quality Assurance: 
+##### 13. Quality Assurance: 
 
 #### 14. Other uses in ICS 314 not listed
 
