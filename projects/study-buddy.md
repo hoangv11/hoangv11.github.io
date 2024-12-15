@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/BankDatabaseIcon.png
+image: img/ICStudy-SB.png
 title: "ICStudy"
 date: 2024
 published: true
