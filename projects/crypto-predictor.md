@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/BankDatabaseIcon.png
+image: img/CryptoPredictor.png
 title: "Crypto Stock Predictor"
 date: 2023
 published: true
