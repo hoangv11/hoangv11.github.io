@@ -33,8 +33,7 @@ Due to this being a solo project I made for fun, I was the primary developer and
 
    - Implemented predictive machine learning models such as LSTM networks and Linear Regression to make decisions based on short term movement.
   
-   - Tuning hyperparameters such as Root Mean Squared Error (RMSE) to optimize performance of learning models setting boundaries for the learning models. RMSE is a means of measure to gives weight to larger errors by     
-     squaring the differences before averaging the errors emphasizing larger deviations which is important in order to maintain accuracy. 
+   - Tuning hyperparameters such as Root Mean Squared Error (RMSE) to optimize performance of learning models setting boundaries for the learning models. RMSE is a means of measure to gives weight to larger errors by squaring the differences before averaging the errors emphasizing larger deviations which is important in order to maintain accuracy. 
 
 3. Trading Logic and Risk Management:
 
