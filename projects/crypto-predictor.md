@@ -9,5 +9,6 @@ labels:
   - Python
   - Machine Learning
   - Data Science
+  - API
 summary: "Crypto Trading Bot leveraging machine learning techniques to forecast cryptocurrency stock trends and make trades"
 ---
