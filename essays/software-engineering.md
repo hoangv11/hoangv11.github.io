@@ -22,6 +22,12 @@ For instance, open source software development taught me the value of team colla
 
 ## Coding Standards
 
+Coding standards refer to the set of guidelines representing the best practices that developers should follow in order to write consistent, readable and maintainable code. These standards cover many aspects of software engineering whether it be naming conventions, indentation, code formatting and even documentation. By following these guidelines, it ensures that codebases are clean and organized, making it much easier for multiple developers to collaborate effectively. 
+
+My experience with coding standards was greatly shaped and reinforced by ESLint. Adapting to the demands of ESLint was a such a tedious task as I had to pay attention to details I had previously considered unimportant such as indentation, spaces and naming conventions. However, it built discipline and allowed my code to be much more understandable and maintainable which is crucial when it comes to collaboration. For collaborative environments, ESLint is an excellent quality control tool finding and marking significant divergences from established coding standards. This is wonderful, because it not only finds potential errors very early in the development process but also forces me, as a developer, to rethink and usually improve my construction of a more readable and maintainable structure.
+
+Furthermore, I came to understand how ESLint's role extends far beyond simply catching errors in my code; it actively promotes better coding practices. By following its suggestions, I learned to write not just cleaner code but more modular code, which reduced my debugging time and made my development process much smoother. While ESLint is primarily used in web application development, its principles carry over to many other types of projects, whether they're frontend, backend, or something in between. Adapting to ESLint has improved my technical skills and also kindled a mindset in me to write professional-grade code that will remain functional and "as good as it gets" for the long haul.
+
 ## Functional Programming
 
 ## Conclusion
