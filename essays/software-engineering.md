@@ -30,4 +30,10 @@ Furthermore, I came to understand how ESLint's role extends far beyond simply ca
 
 ## Functional Programming
 
+The programming paradigm that is known as Functional Programming treats computation as something you get when you evaluate mathematical functions. In this view, you don't have to change states, and you definitely don't have mutable data to deal with. Functional programming emphasizes the use of pure and higher order functions that can lead to much more predictable and testable code. My experience with functional programming has required me to think much more declaratively, focusing on what to solve rather than how to solve it.
+
+Although functional programming is mostly connected with web development such as JavaScript/TypeScript and React, it can also be used and beneficial in many areas. For example, when it comes to data science where you have to manage, analyze and transform data, functional programming can become a very powerful tool. By avoiding mutable states with functional programming, it allows you to transform complex data pipelines into much more predictable and reproducible data allowing for meaningful analysis. 
+
 ## Conclusion
+
+Throughout my time leanring softwarefe engineering, I have gained a very comprehensive understanding of the fundamental concepts that goes beyond just developing web applications. By exploring concepts such as Agile Project Management, Coding Standards or Functional Programming, I was able to lean how to manage projects more effectively, write higher quality and maintainable code which are crucial when it comes to becoming a successful software engineer. Additionally, the insights of open source collaboration highlights the importance of collaboration and comminity in creating innovating software. These lessons have equipped me with the skills and knowledge necessary to tackle diverse software engineering challenges and contribute meaningfully to the field. As I move forward in my career, I am confident that these foundational principles will guide me in creating impactful and sustainable software solutions.
