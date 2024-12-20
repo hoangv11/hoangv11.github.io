@@ -35,8 +35,8 @@ Developed interactive data visualizations using Recharts, allowing users to expl
 Integrated CSV file readers, enabling users to upload external datasets and view them directly in the portal. This functionality made the system highly extensible and user-driven.
 Static Pages and Embedding External Content:
 
-Created static pages, such as FAQs, About, and Contact, to provide clear guidance and information about the portal.
-Embedded external content using iFrames, allowing integration of third-party dashboards, maps, and visualizations into the portal.
+Created static pages, such as the report page where users would be able to generate their reports made by tools in the website and uploading those reports for the community to see. 
+Embedded external content using iFrames, allowing integration of third-party pdf readers into the portal where user can then view each others report in a pdf format.
 Lessons Learned and Skills Acquired:
 Through this project, I developed a deeper understanding of database management and how to design scalable systems for dynamic content rendering. Working extensively with React hooks improved my ability to manage state and lifecycle events efficiently. Implementing features like localStorage and event handlers enhanced my knowledge of web browser capabilities and user experience optimization.
 
@@ -46,5 +46,6 @@ The project also strengthened my skills in data visualization and user interface
 ## Preview the Website Here
 
 <iframe src="https://uhspace.org/" width="100%" height="600px" frameborder="0" title="HEX"></iframe>
+
 
 Learn more at [HEX Repository](https://github.com/HACC2024/HEX).
