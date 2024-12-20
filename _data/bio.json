@@ -21,7 +21,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Python", "JavaScript", "TypeScript", "NextJS", "HTML", "CSS" ]
+      "keywords": [ "C", "C++", "Java", "Python", "JavaScript", "TypeScript", "React Native", "NextJS", "HTML", "CSS" ]
     },
     {
       "name": "Databases",
@@ -29,7 +29,7 @@
     },
     {
       "name": "Cloud Services",
-      "keywords": [ "AWS", "Firebase", "Docker" ]
+      "keywords": [ "AWS", "Firebase", "Docker", "Vercel" ]
     },
     {
       "name": "Toolsets/OS",
@@ -49,15 +49,16 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Tochigami",
+      "position": "Mobile App Developer",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2024",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Mobile App Developer for Real Estate Application",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Developed and maintained a real estate web app using React Native for seamless cross-platform functionality.",
+        "Integrated FastAPI with Prisma ORM for efficient data handling and PostgreSQL for robust database management.",
+        "Implemented Firebase authentication to ensure secure and reliable user access."
       ]
     },
     {
@@ -73,45 +74,18 @@
       ]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
-  ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
+      "title": "Dean's List",
+      "date": "2022-Present",
       "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "summary": "Recognition for students who have achieved a semester GPA of 3.5 or higher."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Second place",
+      "date": "2024",
+      "awarder": "HACC (Hawaii Annual Code Challenge",
+      "summary": "My team won second place in 2024 (UHSpaceDataHub).  See my portfolio site for more details."
     }
   ],
   "references": [
