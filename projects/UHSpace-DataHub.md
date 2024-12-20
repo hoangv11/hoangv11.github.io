@@ -17,7 +17,15 @@ summary: "Open Data Portal developed by my team for HACC 2024"
 
 This projects involved recreating Hawaii's Open Source Data Portal, a platform designed to make publicly accessible datasets easy to explore, visualize and manage. The portal allows users to view data and gain much more meaningful insights on data through data visualization charts as well as 24/7 assistance with Uncle HEX, our AI chatbot specialized in reading and analyzing data files such as CSV files. UHSpace also offers a very user friendly interface allowing users to easily navigate through hundred of datasets and saving specfic datasets with a bookmarking feature. The goal was to provide a functional and visually appealing portal to facilitate data accessibility and usage.
 
-My Role and Contribution:
+## Website Walkthrough
+
+1. Browse through hundreds of diverse data sets and visualize them with our CSV data visualizer.
+2. Bookmark data sets that interest you so you can view them later at anytime, anywhere on the application.
+3. Access to 24/7 support with our Uncle HEX chatbot. Download the CSV files from the dataset and upload to uncle HEX to gain insights on your data.
+4. With the data, use the HEX dashboard, equipped with tools to create your own custom reports. You can also generate graph images using our CSV visualizer.
+5. You can upload your reports/projects into our community projects showcase page where anyone can view and interact with the project you made. 
+
+## My Role and Contribution:
 As a key contributor to this project, I was responsible for several core aspects of the portal's development. My specific contributions included:
 
 Database Management and CRUD Operations:
