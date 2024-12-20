@@ -16,6 +16,8 @@ summary: "Study Buddy Application for creating study sessions with classmates or
 ## Study-Buddy Overview
 Welcome to my study-buddy website, a platform designed to facilitate collaborative learning by connecting students for study sessions. Below, I detail my key contributions to this project, the skills I developed, and the lessons learned.
 
+<iframe src="https://the-software-developers.vercel.app/" width="100%" height="600px" frameborder="0" title="HEX"></iframe>
+
 ## Contributions
 #### Dynamic Session Cards
 
@@ -38,6 +40,11 @@ IAM Configuration: Set up IAM roles and policies to secure and manage access to 
 CORS Configuration: Configured CORS to enable secure cross-origin requests, ensuring that images can be uploaded from our web application without issues.
 Bucket Configuration: Properly configured the S3 bucket to handle image storage and retrieval efficiently.
 
+#### Deploying the Website on Vercel
+
+To ensure our study-buddy website is accessible and performant, I deployed it on Vercel. This deployment process involved setting up a continuous integration and deployment pipeline, configuring environment variables, and optimizing the build process for seamless updates. Vercel's platform provided the scalability and reliability needed to handle user traffic efficiently.
+
+Here is the link to the deployed web application: <a href="https://the-software-developers.vercel.app/">Study Buddy</a>
 
 ## What I Learned
 
