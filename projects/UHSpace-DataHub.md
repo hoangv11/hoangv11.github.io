@@ -23,7 +23,11 @@ This projects involved recreating Hawaii's Open Source Data Portal, a platform d
 2. Bookmark data sets that interest you so you can view them later at anytime, anywhere on the application.
 3. Access to 24/7 support with our Uncle HEX chatbot. Download the CSV files from the dataset and upload to uncle HEX to gain insights on your data.
 4. With the data, use the HEX dashboard, equipped with tools to create your own custom reports. You can also generate graph images using our CSV visualizer.
-5. You can upload your reports/projects into our community projects showcase page where anyone can view and interact with the project you made. 
+5. You can upload your reports/projects into our community projects showcase page where anyone can view and interact with the project you made.
+
+## Preview the Website Here
+
+<iframe src="https://uhspace.org/" width="100%" height="600px" frameborder="0" title="HEX"></iframe>
 
 ## My Role and Contribution:
 As a key contributor to this project, I was responsible for several core aspects of the portal's development. My specific contributions included:
@@ -49,11 +53,5 @@ Lessons Learned and Skills Acquired:
 Through this project, I developed a deeper understanding of database management and how to design scalable systems for dynamic content rendering. Working extensively with React hooks improved my ability to manage state and lifecycle events efficiently. Implementing features like localStorage and event handlers enhanced my knowledge of web browser capabilities and user experience optimization.
 
 The project also strengthened my skills in data visualization and user interface design, particularly through the use of tools like Recharts. Building a CSV file reader allowed me to learn more about file parsing and real-time data handling. Additionally, creating static pages and embedding iFrames taught me the importance of combining dynamic and static elements in a cohesive user interface.
-
-
-## Preview the Website Here
-
-<iframe src="https://uhspace.org/" width="100%" height="600px" frameborder="0" title="HEX"></iframe>
-
 
 Learn more at [HEX Repository](https://github.com/HACC2024/HEX).
