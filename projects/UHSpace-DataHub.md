@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/BankDatabaseIcon.png
+image: img/UHSpace.png
 title: "UHSpace Data Hub"
 date: 2024
 published: true
